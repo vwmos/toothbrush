@@ -1,0 +1,89 @@
+aside {
+	float: left;
+	width: 300px;
+	padding: 0 0 20px 20px;
+
+}
+
+
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+h1 { 
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 3em;
+	margin: 0;
+	padding: 30px 0 0 30px;
+}
+
+h2 {
+	font-family: 'Pacifico', cursive;
+	margin: 0;
+	padding: 5px 0 20px 30px;
+	color: red;
+}
+
+h3 {
+	color: red;
+	text-transform: uppercase;
+	padding-bottom: 0;
+	margin: 30px 0 10px 0;
+
+}
+
+header {
+	background-color: lightblue;
+}
+
+img {
+	padding: 30px 20px 10px 0;
+	float: left;
+}
+
+li {
+	display: inline;
+	padding: 10px;
+
+}
+
+li a {
+	padding: 10px;
+
+}
+
+nav {
+	background-color: darkblue;
+	padding: 10px;
+	clear: left;
+	
+}
+
+nav a {
+	text-decoration: none;
+	color: white;
+	
+}
+
+section {
+	float: left;
+	width: 500px;
+}
+
+section p {
+	margin-top: 0;
+}
+
+
+ul {
+	list-style-type: none;
+	margin: 0;
+}
+
+
+#wrapper {
+	width: 900px;
+	margin: auto;
+}
